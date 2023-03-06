@@ -1,0 +1,14 @@
+body{
+    background-image:  url('https://i.postimg.cc/mrPZ9qhy/360-F-442896172-yc-T45-J3zr3xiw0-Y9-Gf-GVh-XOm5a-Znrj6s.jpg');
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+table {
+    background-color: white;
+    width: 300px;
+    height: 100px;
+}
+.header {
+}
